@@ -95,6 +95,16 @@
         android:layout_marginTop="20dp"
         android:text="Login"
         />
+    <Button
+        android:id="@+id/btn_snack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btlogin"
+        android:layout_centerHorizontal="true"
+        android:text="Test"
+        android:layout_marginTop="30dp"
+        android:textSize="20sp"
+        />
 
 
 </RelativeLayout>
